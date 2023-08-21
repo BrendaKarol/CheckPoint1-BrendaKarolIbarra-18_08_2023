@@ -1,0 +1,8 @@
+-cd 
+-git init
+-git remote add origin "https"
+-touch
+-mkdir
+-git add .
+-git commit -m
+-git push origin main/master
